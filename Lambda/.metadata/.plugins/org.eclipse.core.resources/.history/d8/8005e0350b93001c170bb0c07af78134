@@ -16,18 +16,18 @@ public class EmployeeRepository {
 		Department dept1 = new Department(2, 20, "IT");
 		List<Employee> empList = new ArrayList<Employee>();
 		empList = Arrays.asList(
-				new Employee(100, 1, "Utkarsh", "Sawant", "utk44@gmail.com", "9582647822", "Executive",
-						LocalDate.of(2019, 2, 21), 25000d, dept),
-				new Employee(201, 2, "Shweta", "Pawar", "shwetz18@gmail.com", "9058694237", "Analyst",
-						LocalDate.of(2021, 2, 11), 30000d, dept1),
-				new Employee(103, 2, "Nikita", "Kangude", "nik77@gmail.com", "9325846478", "Analyst",
+				new Employee(100, 1, "Harsha", "Vardhan", "vardhanharsha499@gmail.com", "9158106688", "Executive",
+						LocalDate.of(2022, 2, 21), 25000d, dept),
+				new Employee(201, 2, "Ram", "Kumar", "ramkumar1@gmail.com", "9096684836", "Analyst",
+						LocalDate.of(2022, 2, 11), 30000d, dept1),
+				new Employee(103, 2, "Ashish", "Sharma", "ashish@gmail.com", "8983349675", "Analyst",
 						LocalDate.of(2022, 2, 05), 20500d, dept),
-				new Employee(102, 2, "Pratiksha", "Salunkhe", "pratu@gmail.com", "7358469785", "Analyst",
-						LocalDate.of(2021, 2, 17), 20000d, dept),
-				new Employee(101, 2, "Ajinkya", "Dombe", "ajinkya8a@gmail.com", "8082548812", "Analyst",
-						LocalDate.of(2020, 2, 20), 23000d, dept),
-				new Employee(202, 1, "Pranoti", "Phalke", "pranotipp@gmail.com", "7056848499", "Executive",
-						LocalDate.of(2019, 2, 10), 20000d, dept1));
+				new Employee(102, 2, "Sneha", "Mahesh", "sneha@gmail.com", "9823079331", "Analyst",
+						LocalDate.of(2022, 2, 17), 20000d, dept),
+				new Employee(101, 2, "Jay", "Adwut", "jay@gmail.com", "9657887314", "Analyst",
+						LocalDate.of(2022, 2, 20), 23000d, dept),
+				new Employee(202, 1, "Sindu", "Eti", "sindu@gmail.com", "9865674311", "Executive",
+						LocalDate.of(2022, 2, 10), 20000d, dept1));
 		for (Employee e : empList) {
 			System.out.println(e);
 		}

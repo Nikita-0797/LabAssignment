@@ -1,13 +1,14 @@
 package steamapi;
 
+
 import java.time.LocalDate;
 
-public class Employee {
+public class EmployeeRepository {
 	private int id, managerId;
 	private String firstName, lastName, email, phoneNumber, designation;
 	private LocalDate hireDate;
 	private Double salary;
-	private Department department;
+	private int department;
 
 	public int getId() {
 		return id;
@@ -81,11 +82,13 @@ public class Employee {
 		this.salary = salary;
 	}
 
-	public Department getDepartment() {
+	
+
+	public int getDepartment() {
 		return department;
 	}
 
-	public void setDepartment(Department department) {
+	public void setDepartment(int department) {
 		this.department = department;
 	}
 
@@ -96,8 +99,8 @@ public class Employee {
 				+ hireDate + ", salary=" + salary + ", department=" + department + "]";
 	}
 
-	public Employee(int id, int managerId, String firstName, String lastName, String email,
-			String phoneNumber, String designation, LocalDate hireDate, Double salary, Department department) {
+	public EmployeeRepository(int id, int managerId, String firstName, String lastName, String email,
+			String phoneNumber, String designation, LocalDate hireDate, Double salary, int department) {
 		super();
 		this.id = id;
 		this.managerId = managerId;

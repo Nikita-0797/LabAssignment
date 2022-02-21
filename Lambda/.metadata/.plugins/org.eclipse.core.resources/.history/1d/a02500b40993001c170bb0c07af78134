@@ -1,0 +1,9 @@
+import java.time.LocalDate;
+import java.util.Arrays;
+
+import steamapi.EmployeeRepository;
+
+module Lambda {
+	empList = Arrays.asList( new EmployeeRepository(100, 1, "Utkarsh", "Sawant", "utk14@gmail.com", "9158106688", "Executive", LocalDate.of(2021, 4, 17), 25000d, dept), new EmployeeRepository(201, 2, "Nikita", "Kangude", "niki7@gmail.com", "7350718157", "Analyst", LocalDate.of(2021, 4, 11), 30000d, dept1), new EmployeeRepository(103, 1, "Shweta", "Pawar", "shwetz18@gmail.com", "8595452522", "Analyst", LocalDate.of(2021, 4, 05), 20500d, dept), new EmployeeRepository(102, 1, "Ritesh", "Kale", "ritesh@gmail.com", "7354585659", "Analyst", LocalDate.of(2021, 4, 17), 20000d, dept), new EmployeeRepository(101, 1, "Sumit", "Pol", "sumit@gmail.com", "9684826546", "Analyst", LocalDate.of(2021, 4, 20), 23000d, dept), new EmployeeRepository(202, 2, "Aarti", "Shinde", "aarti6a@gmail.com", "9865674311", "Executive", LocalDate.of(2021, 4, 30), 20000d, dept1));
+	
+}
