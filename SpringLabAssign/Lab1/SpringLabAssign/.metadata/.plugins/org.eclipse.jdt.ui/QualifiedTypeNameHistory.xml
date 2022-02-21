@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.nik.exercise4.service.EmpService"/>
+    <fullyQualifiedTypeName name="com.nik.exercise4.service.EmpServiceImpl"/>
+    <fullyQualifiedTypeName name="com.nik.exercise4.dao.EmpDao"/>
+    <fullyQualifiedTypeName name="com.nik.exercise4.entity.Employee"/>
+    <fullyQualifiedTypeName name="com.nik.exercise4.service.EmployeeService"/>
+</qualifiedTypeNameHistroy>

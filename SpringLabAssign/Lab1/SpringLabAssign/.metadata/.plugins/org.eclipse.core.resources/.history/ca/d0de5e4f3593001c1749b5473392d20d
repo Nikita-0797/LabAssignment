@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd" xmlns:context="http://www.springframework.org/schema/context" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.springframework.org/schema/beans">
+
+
+<bean class="com.abc.labs.ex4.EmployeeDao" id="emp">
+
+
+<property name="emplist">
+
+
+<list>
+
+
+<bean class="com.abc.labs.ex4.Employee">
+
+<property name="employeeId" value="501"/>
+
+<property name="employeeName" value="Harsha"/>
+
+<property name="salary" value="85000"/>
+
+</bean>
+
+
+-<bean class="com.abc.labs.ex4.Employee">
+
+<property name="employeeId" value="502"/>
+
+<property name="employeeName" value="Aashih"/>
+
+<property name="salary" value="60000"/>
+
+</bean>
+
+</list>
+
+</property>
+
+</bean>
+
+</beans>

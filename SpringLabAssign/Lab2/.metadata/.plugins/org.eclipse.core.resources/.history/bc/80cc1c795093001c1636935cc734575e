@@ -1,0 +1,8 @@
+package com.nik.exercise1.exception;
+
+public class TraineeNotFoundException {
+	public TraineeNotFoundException(String msg) {
+		super(msg);
+	}
+
+}

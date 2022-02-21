@@ -1,0 +1,489 @@
+2022-02-21 21:58:12,351 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-21 22:04:55,409 [Worker-0: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\pom.xml
+2022-02-21 22:04:55,970 [Worker-0: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise4:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\pom.xml.
+2022-02-21 22:04:56,463 [Worker-0: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise4/src/main/java
+2022-02-21 22:04:56,468 [Worker-0: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise4/src/test/java
+2022-02-21 22:04:57,142 [Worker-0: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-02-21 22:04:57,898 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:04:57,899 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:04:57,900 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:04:57,901 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:09:55,457 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-21 22:09:55,678 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise4:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\pom.xml.
+2022-02-21 22:09:55,817 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise4/src/main/java
+2022-02-21 22:09:55,818 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise4/src/test/java
+2022-02-21 22:09:55,908 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-02-21 22:09:56,099 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:09:56,100 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:09:56,101 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:09:56,102 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:10:37,028 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:10:37,028 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:10:37,029 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:10:37,030 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:11:43,988 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:11:43,988 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:11:43,989 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:11:43,989 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:12:00,479 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:12:00,480 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:12:00,481 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:12:00,481 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:12:33,919 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:12:33,919 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:12:33,920 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:12:33,920 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:12:51,715 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:12:51,715 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:12:51,716 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:12:51,717 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:13:37,067 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:13:37,068 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:13:37,069 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:13:37,069 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:14:25,753 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:14:25,754 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:14:25,758 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:14:25,758 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:15:48,286 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:15:48,286 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:15:48,287 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:15:48,287 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:16:03,181 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:16:03,181 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:16:03,182 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:16:03,182 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:16:38,460 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:16:38,461 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:16:38,462 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:16:38,462 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:17:34,571 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:17:34,572 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:17:34,572 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:17:34,572 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:19:41,332 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:19:41,333 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:19:41,334 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:19:41,334 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:19:56,817 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:19:56,818 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:19:56,820 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:19:56,821 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:21:09,851 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:21:09,852 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:21:09,853 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:21:09,853 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:22:34,084 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:22:34,084 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:22:34,086 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:22:34,086 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:24:16,330 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:24:16,330 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:24:16,330 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:24:16,330 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:24:29,517 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:24:29,517 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:24:29,518 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:24:29,519 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:24:55,195 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:24:55,195 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:24:55,196 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:24:55,196 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:27:02,189 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:27:02,190 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:27:02,191 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:27:02,191 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:29:50,448 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:29:50,448 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:29:50,449 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:29:50,449 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:30:44,339 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:30:44,339 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:30:44,340 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:30:44,340 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:30:57,556 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:30:57,556 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:30:57,556 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:30:57,557 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:31:34,809 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:31:34,809 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:31:34,810 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:31:34,810 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:32:51,854 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:32:51,854 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:32:51,855 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:32:51,855 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:33:19,553 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:33:19,553 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:33:19,554 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:33:19,554 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:34:24,903 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:34:24,903 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:34:24,904 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:34:24,904 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:34:28,399 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:34:28,399 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:34:28,400 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:34:28,400 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:36:58,155 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:36:58,155 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:36:58,156 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:36:58,156 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:39:02,451 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:39:02,451 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:39:02,452 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:39:02,452 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:39:24,596 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-21 22:40:44,566 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:40:44,568 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:40:44,570 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:40:44,570 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:41:46,274 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:41:46,274 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:41:46,276 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:41:46,276 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:42:04,972 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:42:04,972 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:42:04,973 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:42:04,973 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:44:40,257 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-21 22:44:40,598 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise4:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\pom.xml.
+2022-02-21 22:44:40,773 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise4/src/main/java
+2022-02-21 22:44:40,774 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise4/src/test/java
+2022-02-21 22:44:40,925 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-02-21 22:44:41,126 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:44:41,126 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:44:41,128 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:44:41,128 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:44:43,357 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:44:43,357 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:44:43,358 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:44:43,358 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:47:08,031 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:47:08,032 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:47:08,033 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:47:08,033 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:47:40,525 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-21 22:47:40,770 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise4:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\pom.xml.
+2022-02-21 22:47:40,926 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise4/src/main/java
+2022-02-21 22:47:40,928 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise4/src/test/java
+2022-02-21 22:47:41,001 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-02-21 22:47:41,193 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:47:41,193 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:47:41,195 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:47:41,196 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:48:56,399 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:48:56,400 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:48:56,401 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:48:56,401 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:56:53,085 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:56:53,085 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:56:53,086 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:56:53,087 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 22:56:59,044 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:56:59,044 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 22:56:59,045 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 22:56:59,045 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 23:01:55,546 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-21 23:10:13,405 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\pom.xml
+2022-02-21 23:10:13,942 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise3:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\pom.xml.
+2022-02-21 23:10:14,312 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise3/src/main/java
+2022-02-21 23:10:14,316 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise3/src/test/java
+2022-02-21 23:10:14,376 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-02-21 23:10:14,705 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:10:14,705 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:10:14,706 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:10:14,706 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:10:31,895 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:10:31,896 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\main\resources
+2022-02-21 23:10:31,897 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:10:31,897 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise4\src\test\resources
+2022-02-21 23:10:52,940 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-21 23:10:53,212 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise3:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\pom.xml.
+2022-02-21 23:10:53,320 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise3/src/main/java
+2022-02-21 23:10:53,321 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise3/src/test/java
+2022-02-21 23:10:53,399 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-02-21 23:10:53,557 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:10:53,557 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:10:53,559 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:10:53,561 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:11:48,165 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:11:48,165 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:11:48,166 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:11:48,167 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:15:47,038 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:15:47,039 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:15:47,040 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:15:47,040 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:16:55,308 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:16:55,308 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:16:55,309 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:16:55,309 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:17:21,852 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:17:21,852 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:17:21,853 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:17:21,854 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:18:08,766 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:18:08,766 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:18:08,768 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:18:08,768 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:18:16,461 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:18:16,461 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:18:16,462 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:18:16,463 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:18:49,595 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:18:49,595 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:18:49,596 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:18:49,596 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:19:15,660 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:19:15,660 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:19:15,661 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:19:15,662 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:20:39,511 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:20:39,512 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:20:39,512 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:20:39,512 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:20:50,471 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:20:50,472 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:20:50,473 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:20:50,473 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:21:28,101 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:21:28,102 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:21:28,102 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:21:28,102 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:22:51,655 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:22:51,655 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:22:51,656 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:22:51,657 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:25:04,906 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:25:04,907 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:25:04,909 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:25:04,909 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:27:41,664 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:27:41,665 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:27:41,665 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:27:41,666 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:28:25,330 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:28:25,330 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:28:25,331 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:28:25,331 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:28:34,079 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-21 23:28:34,365 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise3:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\pom.xml.
+2022-02-21 23:28:34,490 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise3/src/main/java
+2022-02-21 23:28:34,490 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise3/src/test/java
+2022-02-21 23:28:34,576 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-02-21 23:28:34,742 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:28:34,742 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:28:34,742 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:28:34,742 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:30:06,133 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:30:06,134 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:30:06,135 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:30:06,135 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:33:14,372 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:33:14,373 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:33:14,374 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:33:14,374 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:33:35,683 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:33:35,683 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:33:35,684 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:33:35,684 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:36:53,181 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:36:53,181 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:36:53,182 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:36:53,182 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:37:00,938 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-21 23:37:01,103 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise3:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\pom.xml.
+2022-02-21 23:37:01,197 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise3/src/main/java
+2022-02-21 23:37:01,198 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise3/src/test/java
+2022-02-21 23:37:01,290 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-02-21 23:37:01,438 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:37:01,439 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:37:01,439 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:37:01,439 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:40:51,878 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:40:51,879 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:40:51,879 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:40:51,879 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:41:52,999 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-21 23:41:53,163 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise3:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\pom.xml.
+2022-02-21 23:41:53,256 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise3/src/main/java
+2022-02-21 23:41:53,256 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise3/src/test/java
+2022-02-21 23:41:53,311 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-02-21 23:41:53,457 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:41:53,457 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:41:53,458 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:41:53,458 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:42:36,185 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:42:36,186 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:42:36,187 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:42:36,187 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:50:34,120 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:50:34,121 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\main\resources
+2022-02-21 23:50:34,121 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:50:34,122 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise3\src\test\resources
+2022-02-21 23:52:24,793 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\pom.xml
+2022-02-21 23:52:24,836 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise2:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\pom.xml.
+2022-02-21 23:52:24,897 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise2/src/main/java
+2022-02-21 23:52:24,900 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise2/src/test/java
+2022-02-21 23:52:24,936 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-02-21 23:52:25,154 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:52:25,155 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-21 23:52:25,155 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:52:25,155 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-21 23:54:26,158 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-21 23:54:26,188 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise2:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\pom.xml.
+2022-02-21 23:54:26,279 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise2/src/main/java
+2022-02-21 23:54:26,279 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise2/src/test/java
+2022-02-21 23:54:26,325 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-02-21 23:54:26,485 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:54:26,486 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-21 23:54:26,486 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:54:26,487 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-21 23:55:02,947 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:55:02,947 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-21 23:55:02,949 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:55:02,951 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-21 23:55:39,390 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:55:39,390 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-21 23:55:39,391 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:55:39,392 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-21 23:57:12,593 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:57:12,594 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-21 23:57:12,595 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:57:12,595 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-21 23:57:31,947 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:57:31,948 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-21 23:57:31,949 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:57:31,949 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-21 23:57:49,189 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:57:49,189 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-21 23:57:49,190 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:57:49,190 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-21 23:58:11,537 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:58:11,538 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-21 23:58:11,540 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:58:11,540 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-21 23:58:30,221 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:58:30,221 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-21 23:58:30,222 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:58:30,222 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-21 23:58:36,944 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:58:36,944 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-21 23:58:36,945 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:58:36,945 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-21 23:59:23,187 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:59:23,187 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-21 23:59:23,187 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-21 23:59:23,188 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-22 00:00:59,738 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:00:59,738 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-22 00:00:59,739 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:00:59,739 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-22 00:01:13,626 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:01:13,627 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-22 00:01:13,627 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:01:13,627 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-22 00:01:33,529 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:01:33,529 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-22 00:01:33,530 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:01:33,530 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-22 00:02:07,752 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:02:07,752 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-22 00:02:07,752 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:02:07,753 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-22 00:02:37,606 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:02:37,607 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-22 00:02:37,607 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:02:37,607 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-22 00:04:21,144 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:04:21,144 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-22 00:04:21,144 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:04:21,144 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-22 00:06:32,175 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:06:32,175 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-22 00:06:32,175 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:06:32,175 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-22 00:08:22,121 [Worker-45: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\pom.xml
+2022-02-22 00:08:22,182 [Worker-45: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise1:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\pom.xml.
+2022-02-22 00:08:22,265 [Worker-45: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise1/src/main/java
+2022-02-22 00:08:22,267 [Worker-45: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise1/src/test/java
+2022-02-22 00:08:22,297 [Worker-45: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-02-22 00:08:22,489 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:08:22,489 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\main\resources
+2022-02-22 00:08:22,490 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:08:22,490 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\test\resources
+2022-02-22 00:08:36,338 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-22 00:08:36,362 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise1:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\pom.xml.
+2022-02-22 00:08:36,463 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise1/src/main/java
+2022-02-22 00:08:36,463 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise1/src/test/java
+2022-02-22 00:08:36,507 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-02-22 00:08:36,634 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:08:36,634 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\main\resources
+2022-02-22 00:08:36,635 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:08:36,635 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\test\resources
+2022-02-22 00:09:22,291 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:09:22,291 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\main\resources
+2022-02-22 00:09:22,292 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:09:22,292 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\test\resources
+2022-02-22 00:14:45,622 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:14:45,622 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\main\resources
+2022-02-22 00:14:45,624 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:14:45,624 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\test\resources
+2022-02-22 00:17:40,612 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:17:40,612 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\main\resources
+2022-02-22 00:17:40,613 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:17:40,613 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\test\resources
+2022-02-22 00:17:56,442 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:17:56,443 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\main\resources
+2022-02-22 00:17:56,443 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:17:56,443 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\test\resources
+2022-02-22 00:19:50,228 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:19:50,229 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\main\resources
+2022-02-22 00:19:50,229 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:19:50,229 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\test\resources
+2022-02-22 00:20:22,909 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:20:22,909 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\main\resources
+2022-02-22 00:20:22,909 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:20:22,909 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\test\resources
+2022-02-22 00:23:14,803 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:23:14,803 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-22 00:23:14,803 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:23:14,804 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-22 00:23:50,484 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:23:50,485 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-22 00:23:50,485 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:23:50,485 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-22 00:23:58,919 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:23:58,919 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-22 00:23:58,920 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:23:58,920 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-22 00:24:08,272 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-22 00:24:08,316 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise1:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\pom.xml.
+2022-02-22 00:24:08,328 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise2:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\pom.xml.
+2022-02-22 00:24:08,474 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise1/src/main/java
+2022-02-22 00:24:08,474 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise1/src/test/java
+2022-02-22 00:24:08,492 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise2/src/main/java
+2022-02-22 00:24:08,492 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise2/src/test/java
+2022-02-22 00:24:08,591 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-02-22 00:24:08,774 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:24:08,774 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\main\resources
+2022-02-22 00:24:08,775 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:24:08,775 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\test\resources
+2022-02-22 00:24:08,810 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:24:08,810 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\main\resources
+2022-02-22 00:24:08,810 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:24:08,811 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise2\src\test\resources
+2022-02-22 00:24:24,308 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:24:24,308 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\main\resources
+2022-02-22 00:24:24,308 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:24:24,308 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\test\resources
+2022-02-22 00:24:40,055 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-22 00:24:40,082 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nik:exercise1:0.0.1-SNAPSHOT @ C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\pom.xml.
+2022-02-22 00:24:40,204 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise1/src/main/java
+2022-02-22 00:24:40,204 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise1/src/test/java
+2022-02-22 00:24:40,258 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-02-22 00:24:40,407 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:24:40,407 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\main\resources
+2022-02-22 00:24:40,408 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-22 00:24:40,408 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nkangude\Documents\EclipseWorkspace\SpringLabAssign\exercise1\src\test\resources

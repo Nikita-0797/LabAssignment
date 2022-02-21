@@ -1,0 +1,5 @@
+package com.nik.exercise4.dao;
+
+public class EmpDao {
+
+}

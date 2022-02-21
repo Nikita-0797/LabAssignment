@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns="http://www.springframework.org/schema/beans">
+
+	<context:component-scan
+		base-package="com.nik.exercise3" />
+	<bean id="sbu" class="com.nik.exercise3.entity.SBU">
+		<property name="sbuCode" value="300"></property>
+		<property name="sbuName" value="JavaDellboomi"></property>
+		<property name="sbuHead" value="Tanmaya"></property>
+		<property name="emplist">
+			<list>
+				<bean class="com.nik.exercise3.entity.Employee">
+					<property name="employeeId" value="122"></property>
+					<property name="employeeName" value="Nikita"></property>
+					<property name="salary" value="70000"></property>
+				</bean>
+				<bean class="com.nik.exercise3.entity.Employee">
+					<property name="employeeId" value="121"></property>
+					<property name="employeeName" value="Pratiksha"></property>
+					<property name="salary" value="55000"></property>
+				</bean>
+			</list>
+		</property>
+	</bean>
+
+</beans>
